@@ -95,7 +95,7 @@ export const config = {
       ]
     },
     {
-      name: "婷宝",
+      name: "老婆1",
       id: "",
       useTemplateId: "",
       province: "",
